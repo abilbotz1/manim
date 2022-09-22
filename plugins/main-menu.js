@@ -254,7 +254,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
           { title: '❒➪❌»»ᴀsᴜᴘᴀɴ', rowId: `${_p + command} asupan`},
           { title: '❒➪♒»»ᴅᴀᴛᴀʙᴀsᴇ', rowId: `${_p + command} database` },
           { title: '❒➪🗡️»»ᴠᴏᴛᴇ & ᴀʙsᴇɴ', rowId: `${_p + command} vote` },
-          { title: "❒➪💌»ᴀʟ-ǫᴜʀ\'ᴀɴ", rowId: `${_p + command} quran` },
+          { title: "❒➪💌»ᴀʟ-ǫᴜʀ\'ᴀɴ', rowId: `${_p + command} quran` },
           { title: '❒➪🗣️»»ᴘᴇɴɢᴜʙᴀʜ sᴜᴀʀᴀ', rowId: `${_p + command} audio` },
           { title: '❒➪🦾»»ᴊᴀᴅɪʙᴏᴛ', rowId: `${_p + command} jadibot` },
           { title: '❒➪🐼»»ɪɴғᴏ', rowId: `${_p +command} info` },
